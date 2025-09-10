@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Erind</h1>
 <h3 align="center">Software Developer • Web • Applications • AI</h3>
 
-<!-- Short intro with GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 </p>
@@ -10,7 +9,7 @@
 ---
 
 ### 💡 About Me  
-I’m a **software developer** with 2+ years of experience, specializing in **modern web technologies, frontend development, Mobile Apps **, and **AI-powered applications**.  
+I’m a **software developer** with 2+ years of experience, specializing in **Modern web technologies, Frontend Development, Mobile Apps**, and **AI-powered applications**.  
 I love building solutions that **genuinely help people** by combining **smart web apps** and **innovative AI**.
 
 ---
@@ -18,7 +17,6 @@ I love building solutions that **genuinely help people** by combining **smart we
 ### 🛠️ Tools & Technologies  
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -44,7 +42,7 @@ I love building solutions that **genuinely help people** by combining **smart we
 ### 🌐 Let’s Connect  
 
 <p align="center">
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://erind-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/erindavdiu" target="_blank">
