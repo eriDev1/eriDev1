@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Erind</h1>
-<h3 align="center">Software Developer • Web • Backend • AI</h3>
+<h3 align="center">Software Developer • Web • Applications • AI</h3>
 
 <!-- Short intro with GIF -->
 <p align="center">
@@ -10,7 +10,7 @@
 ---
 
 ### 💡 About Me  
-I’m a **software developer** with 2+ years of experience, specializing in **modern web technologies, backend development**, and **AI-powered applications**.  
+I’m a **software developer** with 2+ years of experience, specializing in **modern web technologies, frontend development, Mobile Apps **, and **AI-powered applications**.  
 I love building solutions that **genuinely help people** by combining **smart web apps** and **innovative AI**.
 
 ---
@@ -47,7 +47,7 @@ I love building solutions that **genuinely help people** by combining **smart we
   <a href="https://yourwebsite.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/erindavdiu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:erindavdiu4@gmail.com">
