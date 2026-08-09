@@ -9,7 +9,7 @@
 ---
 
 ### 💡 About Me  
-I’m a **software developer** with 2+ years of experience, specializing in **Modern web technologies, Frontend Development, Mobile Apps**, and **AI-powered applications**.  
+I’m a **software developer** with years of experience, specializing in **Modern web technologies, Frontend Development, Mobile Apps**, and **AI-powered applications**.  
 I love building solutions that **genuinely help people** by combining **smart web apps** and **innovative AI**.
 
 ---
